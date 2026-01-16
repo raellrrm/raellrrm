@@ -1,5 +1,1 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raellrrm&layout=compact&theme=dark&hide_border=true&bg_color=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raellrrm&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
-  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raellrrm&layout=compact&theme=light&hide_border=true&bg_color=FFFFFF">
-</picture
+![Top Langs](https://github-states-generator.vercel.app/api/top-langs/?username=raellrrm&show_icons=true&hide_border=true)
